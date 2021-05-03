@@ -1,0 +1,117 @@
+[
+  {
+    "icon": "american-football",
+    "name": "action sheet",
+    "redirectTo": "/action-sheet"
+  },
+  {
+    "icon": "alert-circle",
+    "name": "Alert",
+    "redirectTo": "/alert"
+  },
+  {
+    "icon": "accessibility",
+    "name": "Avatar - imagenes de perfil de usuario",
+    "redirectTo": "/avatar"
+  },
+  {
+    "icon": "cube",
+    "name": "Botones",
+    "redirectTo": "/buttoms"
+  },
+  {
+    "icon": "card",
+    "name": "Tarjetas o cajones",
+    "redirectTo": "/card"
+  },
+  {
+    "icon": "checkmark-sharp",
+    "name": "CheckBox",
+    "redirectTo": "/checkbox"
+  },
+  {
+    "icon": "calendar",
+    "name": "Calendarios y tiempo",
+    "redirectTo": "/datetime"
+  },
+  {
+    "icon": "happy",
+    "name": "Botones flotantes, favoritos y mas acciones",
+    "redirectTo": "/fab"
+  },
+  {
+    "icon": "scan",
+    "name": "Grid - Filas y columnas",
+    "redirectTo": "/grid"
+  },
+  {
+    "icon": "chevron-down-outline",
+    "name": "Infinite scroll",
+    "redirectTo": "/infinite"
+  },
+  {
+    "icon": "pencil-sharp",
+    "name": "Cajas de texto Inputs",
+    "redirectTo": "/input"
+  },
+  {
+    "icon": "list-sharp",
+    "name": "Listas",
+    "redirectTo": "/list"
+  },
+  {
+    "icon": "grid-outline",
+    "name": "Reordenar listas",
+    "redirectTo": "/list-reorder"
+  },
+  {
+    "icon": "aperture-sharp",
+    "name": "Loading",
+    "redirectTo": "/loading"
+  },
+  {
+    "icon": "duplicate-outline",
+    "name": "Modal",
+    "redirectTo": "/modal"
+  },
+  {
+    "icon": "git-compare",
+    "name": "Popover",
+    "redirectTo": "/popover"
+  },
+  {
+    "icon": "battery-charging-outline",
+    "name": "Progress bar",
+    "redirectTo": "/progress"
+  },
+  {
+    "icon": "arrow-up-outline",
+    "name": "Refrescar datos",
+    "redirectTo": "/refresher"
+  },
+  {
+    "icon": "search-sharp",
+    "name": "Buscador",
+    "redirectTo": "/search"
+  },
+  {
+    "icon": "albums",
+    "name": "segmentos",
+    "redirectTo": "/segment"
+  },
+  {
+    "icon": "images",
+    "name": "Slides",
+    "redirectTo": "/slides"
+  },
+  {
+    "icon": "layers-sharp",
+    "name": "Tabs",
+    "redirectTo": "/tabs"
+  },
+  {
+    "icon": "bulb",
+    "name": "Toast",
+    "redirectTo": "/toast"
+  }
+]
